@@ -1,0 +1,1 @@
+﻿SELECT Genre FROM Series WHERE Title = N'Шерлок';

@@ -1,0 +1,1 @@
+﻿INSERT INTO Series VALUES(12, 'dfv', 'ewf', 'few', 'dfv', '02.09.2010', 1, 1, 1, 13, 1, 1)

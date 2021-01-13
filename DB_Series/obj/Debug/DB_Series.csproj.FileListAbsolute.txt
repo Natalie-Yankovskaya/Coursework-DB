@@ -1,0 +1,155 @@
+C:\Users\usr\Desktop\Новая папка (3)\DB_Series\DB_Series\bin\Debug\Series.mdf
+C:\Users\usr\Desktop\Новая папка (3)\DB_Series\DB_Series\bin\Debug\Series_log.ldf
+C:\Users\usr\Desktop\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.csprojAssemblyReference.cache
+C:\Users\usr\Desktop\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.Properties.Resources.resources
+C:\Users\usr\Desktop\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.Series.resources
+C:\Users\usr\Desktop\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.csproj.GenerateResource.cache
+C:\Users\usr\Desktop\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.csproj.CoreCompileInputs.cache
+C:\Users\usr\Desktop\Новая папка (3)\DB_Series\DB_Series\bin\Debug\System.Data.SqlClient.dll
+C:\Users\usr\Desktop\Новая папка (3)\DB_Series\DB_Series\bin\Debug\System.Data.SqlClient.xml
+C:\Users\usr\Desktop\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.csproj.CopyComplete
+C:\Users\usr\Desktop\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.Main.resources
+C:\Users\usr\Desktop\Новая папка (3)\DB_Series\DB_Series\bin\Debug\SeriesDataSet.Designer.cs
+C:\Users\usr\Desktop\Новая папка (3)\DB_Series\DB_Series\bin\Debug\SeriesDataSet.xsc
+C:\Users\usr\Desktop\Новая папка (3)\DB_Series\DB_Series\bin\Debug\SeriesDataSet.xsd
+C:\Users\usr\Desktop\Новая папка (3)\DB_Series\DB_Series\bin\Debug\SeriesDataSet.xss
+C:\Users\usr\Desktop\Новая папка (3)\DB_Series\DB_Series\bin\Debug\DB_Series1.exe.config
+C:\Users\usr\Desktop\Новая папка (3)\DB_Series\DB_Series\bin\Debug\DB_Series1.exe
+C:\Users\usr\Desktop\Новая папка (3)\DB_Series\DB_Series\bin\Debug\DB_Series1.pdb
+C:\Users\usr\Desktop\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series1.exe
+C:\Users\usr\Desktop\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series1.pdb
+C:\Users\usr\Desktop\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.AddSeries.resources
+C:\Users\usr\Desktop\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.AddProducer.resources
+C:\Users\usr\Desktop\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.AddStudio.resources
+C:\Users\usr\Desktop\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.ChangeSeries.resources
+C:\Users\usr\Desktop\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.Producers.resources
+C:\Users\usr\Desktop\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.ChangeProducer.resources
+C:\Users\usr\Desktop\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.Studios.resources
+C:\Users\usr\Desktop\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.ChangeStudio.resources
+C:\Users\usr\Desktop\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.Query1.resources
+C:\Users\usr\Desktop\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.Query2.resources
+C:\Users\usr\Desktop\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.Query3.resources
+C:\Users\usr\Desktop\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.Query4.resources
+C:\Users\usr\Desktop\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.Report1.resources
+C:\Users\usr\Desktop\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.Report2.resources
+C:\Users\usr\Desktop\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.Roles.resources
+C:\Users\usr\Desktop\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.Actors.resources
+C:\Users\usr\Desktop\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.User.resources
+C:\Users\usr\Desktop\Новая папка (3)\DB_Series\DB_Series\bin\Debug\EASendMail.dll
+C:\Users\usr\Desktop\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.Entry.resources
+C:\Users\usr\Desktop\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.Users1.resources
+C:\Users\usr\Desktop\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.Finished.resources
+C:\Users\usr\Desktop\Натали\Studying1\3 семестр\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\bin\Debug\Series.mdf
+C:\Users\usr\Desktop\Натали\Studying1\3 семестр\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\bin\Debug\Series_log.ldf
+C:\Users\usr\Desktop\Натали\Studying1\3 семестр\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\bin\Debug\SeriesDataSet.Designer.cs
+C:\Users\usr\Desktop\Натали\Studying1\3 семестр\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\bin\Debug\SeriesDataSet.xsc
+C:\Users\usr\Desktop\Натали\Studying1\3 семестр\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\bin\Debug\SeriesDataSet.xsd
+C:\Users\usr\Desktop\Натали\Studying1\3 семестр\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\bin\Debug\SeriesDataSet.xss
+C:\Users\usr\Desktop\Натали\Studying1\3 семестр\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\bin\Debug\DB_Series1.exe.config
+C:\Users\usr\Desktop\Натали\Studying1\3 семестр\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\bin\Debug\DB_Series1.exe
+C:\Users\usr\Desktop\Натали\Studying1\3 семестр\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\bin\Debug\DB_Series1.pdb
+C:\Users\usr\Desktop\Натали\Studying1\3 семестр\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\bin\Debug\EASendMail.dll
+C:\Users\usr\Desktop\Натали\Studying1\3 семестр\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\bin\Debug\System.Data.SqlClient.dll
+C:\Users\usr\Desktop\Натали\Studying1\3 семестр\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\bin\Debug\System.Data.SqlClient.xml
+C:\Users\usr\Desktop\Натали\Studying1\3 семестр\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.csprojAssemblyReference.cache
+C:\Users\usr\Desktop\Натали\Studying1\3 семестр\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.Actors.resources
+C:\Users\usr\Desktop\Натали\Studying1\3 семестр\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.AddProducer.resources
+C:\Users\usr\Desktop\Натали\Studying1\3 семестр\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.AddSeries.resources
+C:\Users\usr\Desktop\Натали\Studying1\3 семестр\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.AddStudio.resources
+C:\Users\usr\Desktop\Натали\Studying1\3 семестр\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.ChangeProducer.resources
+C:\Users\usr\Desktop\Натали\Studying1\3 семестр\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.ChangeSeries.resources
+C:\Users\usr\Desktop\Натали\Studying1\3 семестр\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.ChangeStudio.resources
+C:\Users\usr\Desktop\Натали\Studying1\3 семестр\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.Entry.resources
+C:\Users\usr\Desktop\Натали\Studying1\3 семестр\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.Finished.resources
+C:\Users\usr\Desktop\Натали\Studying1\3 семестр\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.Main.resources
+C:\Users\usr\Desktop\Натали\Studying1\3 семестр\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.Producers.resources
+C:\Users\usr\Desktop\Натали\Studying1\3 семестр\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.Properties.Resources.resources
+C:\Users\usr\Desktop\Натали\Studying1\3 семестр\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.Query1.resources
+C:\Users\usr\Desktop\Натали\Studying1\3 семестр\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.Query2.resources
+C:\Users\usr\Desktop\Натали\Studying1\3 семестр\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.Query3.resources
+C:\Users\usr\Desktop\Натали\Studying1\3 семестр\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.Query4.resources
+C:\Users\usr\Desktop\Натали\Studying1\3 семестр\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.Report1.resources
+C:\Users\usr\Desktop\Натали\Studying1\3 семестр\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.Report2.resources
+C:\Users\usr\Desktop\Натали\Studying1\3 семестр\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.Roles.resources
+C:\Users\usr\Desktop\Натали\Studying1\3 семестр\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.Series.resources
+C:\Users\usr\Desktop\Натали\Studying1\3 семестр\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.Studios.resources
+C:\Users\usr\Desktop\Натали\Studying1\3 семестр\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.User.resources
+C:\Users\usr\Desktop\Натали\Studying1\3 семестр\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.Users1.resources
+C:\Users\usr\Desktop\Натали\Studying1\3 семестр\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.csproj.GenerateResource.cache
+C:\Users\usr\Desktop\Натали\Studying1\3 семестр\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.csproj.CoreCompileInputs.cache
+C:\Users\usr\Desktop\Натали\Studying1\3 семестр\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.csproj.CopyComplete
+C:\Users\usr\Desktop\Натали\Studying1\3 семестр\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series1.exe
+C:\Users\usr\Desktop\Натали\Studying1\3 семестр\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series1.pdb
+C:\Users\usr\Desktop\Натали\Studying1\3 семестр\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.AddActor.resources
+C:\Users\usr\Desktop\Натали\Studying1\3 семестр\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.ChangeActor.resources
+C:\Users\usr\Desktop\Натали\Studying1\3 семестр\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.Form1.resources
+C:\Users\usr\Desktop\Натали\Studying1\3 семестр\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.AddRole.resources
+C:\Users\usr\Desktop\Натали\Studying1\3 семестр\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.ChangeRole.resources
+C:\Users\usr\Desktop\Натали\Studying1\3 семестр\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.Series1.resources
+C:\Users\usr\Desktop\Натали\Studying1\3 семестр\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.Report3.resources
+C:\Users\usr\Desktop\Натали\Studying1\3 семестр\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.Report4.resources
+C:\Users\usr\Desktop\Натали\Studying1\3 семестр\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\bin\Debug\Spire.Doc.dll
+C:\Users\usr\Desktop\Натали\Studying1\3 семестр\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\bin\Debug\Spire.License.dll
+C:\Users\usr\Desktop\Натали\Studying1\3 семестр\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\bin\Debug\Spire.Pdf.dll
+C:\Users\usr\Desktop\Натали\Studying1\3 семестр\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\bin\Debug\Microsoft.mshtml.dll
+C:\Users\usr\Desktop\Натали\Studying1\3 семестр\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\bin\Debug\Spire.Doc.xml
+C:\Users\usr\Desktop\Натали\Studying1\3 семестр\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\bin\Debug\Spire.License.xml
+C:\Users\usr\Desktop\Натали\Studying1\3 семестр\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\bin\Debug\Spire.Pdf.xml
+C:\Users\usr\Desktop\Натали\Studying1\3 семестр\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.AddUser.resources
+E:\University\3 семестр(2 курс)\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\bin\Debug\Series.mdf
+E:\University\3 семестр(2 курс)\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\bin\Debug\Series_log.ldf
+E:\University\3 семестр(2 курс)\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\bin\Debug\SeriesDataSet.Designer.cs
+E:\University\3 семестр(2 курс)\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\bin\Debug\SeriesDataSet.xsc
+E:\University\3 семестр(2 курс)\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\bin\Debug\SeriesDataSet.xsd
+E:\University\3 семестр(2 курс)\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\bin\Debug\SeriesDataSet.xss
+E:\University\3 семестр(2 курс)\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\bin\Debug\DB_Series1.exe.config
+E:\University\3 семестр(2 курс)\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\bin\Debug\DB_Series1.exe
+E:\University\3 семестр(2 курс)\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\bin\Debug\DB_Series1.pdb
+E:\University\3 семестр(2 курс)\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\bin\Debug\EASendMail.dll
+E:\University\3 семестр(2 курс)\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\bin\Debug\Spire.Doc.dll
+E:\University\3 семестр(2 курс)\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\bin\Debug\Spire.License.dll
+E:\University\3 семестр(2 курс)\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\bin\Debug\Spire.Pdf.dll
+E:\University\3 семестр(2 курс)\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\bin\Debug\System.Data.SqlClient.dll
+E:\University\3 семестр(2 курс)\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\bin\Debug\Microsoft.mshtml.dll
+E:\University\3 семестр(2 курс)\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\bin\Debug\Spire.Doc.xml
+E:\University\3 семестр(2 курс)\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\bin\Debug\Spire.License.xml
+E:\University\3 семестр(2 курс)\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\bin\Debug\Spire.Pdf.xml
+E:\University\3 семестр(2 курс)\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\bin\Debug\System.Data.SqlClient.xml
+E:\University\3 семестр(2 курс)\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.csprojAssemblyReference.cache
+E:\University\3 семестр(2 курс)\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.Actors.resources
+E:\University\3 семестр(2 курс)\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.AddActor.resources
+E:\University\3 семестр(2 курс)\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.AddProducer.resources
+E:\University\3 семестр(2 курс)\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.AddRole.resources
+E:\University\3 семестр(2 курс)\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.AddSeries.resources
+E:\University\3 семестр(2 курс)\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.AddStudio.resources
+E:\University\3 семестр(2 курс)\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.AddUser.resources
+E:\University\3 семестр(2 курс)\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.ChangeActor.resources
+E:\University\3 семестр(2 курс)\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.ChangeProducer.resources
+E:\University\3 семестр(2 курс)\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.ChangeRole.resources
+E:\University\3 семестр(2 курс)\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.ChangeSeries.resources
+E:\University\3 семестр(2 курс)\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.ChangeStudio.resources
+E:\University\3 семестр(2 курс)\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.Entry.resources
+E:\University\3 семестр(2 курс)\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.Finished.resources
+E:\University\3 семестр(2 курс)\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.Form1.resources
+E:\University\3 семестр(2 курс)\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.Main.resources
+E:\University\3 семестр(2 курс)\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.Producers.resources
+E:\University\3 семестр(2 курс)\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.Properties.Resources.resources
+E:\University\3 семестр(2 курс)\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.Query1.resources
+E:\University\3 семестр(2 курс)\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.Query2.resources
+E:\University\3 семестр(2 курс)\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.Query3.resources
+E:\University\3 семестр(2 курс)\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.Query4.resources
+E:\University\3 семестр(2 курс)\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.Report1.resources
+E:\University\3 семестр(2 курс)\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.Report2.resources
+E:\University\3 семестр(2 курс)\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.Report3.resources
+E:\University\3 семестр(2 курс)\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.Report4.resources
+E:\University\3 семестр(2 курс)\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.Roles.resources
+E:\University\3 семестр(2 курс)\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.Series.resources
+E:\University\3 семестр(2 курс)\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.Series1.resources
+E:\University\3 семестр(2 курс)\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.Studios.resources
+E:\University\3 семестр(2 курс)\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.User.resources
+E:\University\3 семестр(2 курс)\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.Users1.resources
+E:\University\3 семестр(2 курс)\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.csproj.GenerateResource.cache
+E:\University\3 семестр(2 курс)\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.csproj.CoreCompileInputs.cache
+E:\University\3 семестр(2 курс)\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series.csproj.CopyComplete
+E:\University\3 семестр(2 курс)\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series1.exe
+E:\University\3 семестр(2 курс)\Курсовой\Программа курсовой\Новая папка (3)\DB_Series\DB_Series\obj\Debug\DB_Series1.pdb
